@@ -1,6 +1,6 @@
-# Rbservices
+# Rbservices-Cavite
 Official repository for RB Services — freelance &amp; online business solutions
-# RB Services
+# RBServices-Cavite
 
 > Freelance & Online Business Solutions — Philippines 🇵🇭
 
